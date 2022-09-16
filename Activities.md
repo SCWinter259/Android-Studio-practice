@@ -64,14 +64,14 @@ Then, to be allowed to call SocialApp, your app must match the permission set in
 An example of this is when you are reading on CBC app and you want to share the news onto Facebook. The CBC app will bring you to Facebook.
 
 ## Managing the activity lifecycle
-- `onCreate()`
-- `onStart()`
+- `onCreate()`: This one fires when the system calls your activity. Literally the beginning of the whole app. Your app should create views and bind data to lists here.
+- `onStart()`: The activity enters Started state and becomes visible to the user.
 - `onResume()`
 - `onPause()`
 - `onStop()`
 - `onRestart()`
 - `onDestroy()`
 
-*I currently have no intention of writing this part. Basic methods are listed, the rest is Google search*
+*I currently have no intention of continuing writing this part. Basic methods are listed, the rest is Google search*
 
 ![Image](https://developer.android.com/guide/components/images/activity_lifecycle.png)
