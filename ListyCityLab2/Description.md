@@ -1,6 +1,6 @@
 # About
 
-Important files in lab 1, CMPUT 301, Fall 2022.
+Important files in lab 2, CMPUT 301, Fall 2022.
 
 # Specifications
 
