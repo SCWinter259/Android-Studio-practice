@@ -1,2 +1,3 @@
-# Android-Studio-practice
-Just like the name. To practice using Android Studio (with Java)
+# About
+
+This is a repository for me to upload my lab code for CMPUT 301, University of Alberta, Fall 2022.
